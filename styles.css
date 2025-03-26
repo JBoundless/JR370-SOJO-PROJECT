@@ -13,3 +13,19 @@ p {
 .byline {
     text-align: left;
 }
+
+.header {
+    position: relative;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), url('/Racial\ Imbalance\ Act.jpg');
+    color: white;
+    background-size: cover;
+  height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.top-title .byline {
+    text-align: center;
+}
