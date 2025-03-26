@@ -1,6 +1,6 @@
 body {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 p {
     font-size: 20px;
@@ -8,4 +8,8 @@ p {
 
 .top-title {
     text-align: center;
+}
+
+.byline {
+    text-align: left;
 }
